@@ -13,7 +13,7 @@ This software simulates the use of the BlindReview protocol (all algorithms are 
 2) Build and run: cargo run --release (do not forget the --release option!)
 3) To choose specific settings (see below), modify the constants N, M, L, RP, and C in the source code (at the beginning of the BlindReview/src/main.rs file).
 
-## Setings
+## Settings
 
 By default, the software is configured with data from the IMACC 2023 conference. To evaluate the performance of the protocol on other data, you can assign different values to the following constants:
 
