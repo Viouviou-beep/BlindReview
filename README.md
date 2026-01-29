@@ -1,6 +1,7 @@
 # BlindReview
 
-The full version of the paper **"BlindReview: Anonymous and End-to-End Verifiable Peer Review"** is avaliable here: https://anonymous.4open.science/r/BlindReview-B515/BlindReview_full.pdf
+The full version of the paper **"BlindReview: Anonymous and End-to-End Verifiable Peer Review"** is avaliable in the file BlindReview_full.pdf:
+https://anonymous.4open.science/r/BlindReview-B515/BlindReview_full.pdf
 
 ## Overview
 
