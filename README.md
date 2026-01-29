@@ -1,5 +1,7 @@
 # BlindReview
 
+The full version of the paper "BlindReview: Anonymous and End-to-End Verifiable Peer Review" is avaliable here: https://anonymous.4open.science/r/BlindReview-B515/BlindReview_full.pdf
+
 ## Overview
 
 This software simulates the use of the BlindReview protocol (all algorithms are executed sequentially) and displays:
